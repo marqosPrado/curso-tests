@@ -1,5 +1,5 @@
 import { describe, it, assert } from "vitest";
-import FizzBuzz from "../src/FizzBuzz";
+import FizzBuzz from "../src/FizzBuzz/FizzBuzz";
 
 describe('fizzBuzz Kata', () => {
     it('should return Fizz when input it is a multiple of three', () => {
